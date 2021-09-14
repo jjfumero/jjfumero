@@ -8,6 +8,9 @@ Currently, I am collaborating with Intel to bring oneAPI into the TornadoVM fram
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jjfumero&count_private=true&theme=onedark&showicons=true)]()
 
+---------------------------------------------------------------------
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jjfumero&langs_count=5&theme=onedark)]()
+
+---------------------------------------------------------------------
 
