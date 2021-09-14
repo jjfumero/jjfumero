@@ -4,3 +4,10 @@ Hi there! I am a Research Fellow working as part of the Advanced Processor Techn
 
 Currently, I am collaborating with Intel to bring oneAPI into the TornadoVM framework to perform optimisations for Intel compute architectures (xPUs).
 
+---------------------------------------------------------------------
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jjfumero&count_private=true&theme=onedark&showicons=true)]()
+
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jjfumero&langs_count=5&theme=onedark)]()
+
