@@ -20,7 +20,7 @@ Before doing the PhD, I obtained my Bachelor’s and Master’s degrees in Compu
 
 ### Industry
 
-Additionally, I have also worked as an intern at [Oracle Labs](https://labs.oracle.com/pls/apex/f?p=LABS:10::::::) and [CERN](https://home.cern/science/computing/cern-openlab), implementing compilers and evaluating parallel programming techniques for multi-core systems. 
+Additionally, I have also worked as an intern at [Oracle Labs](https://labs.oracle.com/) and [CERN](https://home.cern/science/computing/cern-openlab), implementing compilers and evaluating parallel programming techniques for multi-core systems. 
 
 If you are also interested in any of these topics, get in touch! 
 
