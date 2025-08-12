@@ -4,20 +4,20 @@ I am a Software Developer at Oracle, working in the Java Platform Group.
 
 ## Background 
 
-Until very recently, I was a Researcher Fellow at [The University of Manchester](http://www.manchester.ac.uk) where I worked on how to make computer programs fast by harnessing the power of specialized hardware like Graphics Processing Units (GPUs) and Field Programmable Gate Arrays (FPGAs). 
+I worked as a Researcher Fellow at [The University of Manchester](http://www.manchester.ac.uk) doing some research about how to make computer programs fast by harnessing the power of specialized hardware like Graphics Processing Units (GPUs) and Field Programmable Gate Arrays (FPGAs). 
 I also led the development of [TornadoVM](https://github.com/beehive-lab/TornadoVM), a Java framework that automatically allows Java programs to utilize this hardware for a massive speed boost. 
-My background is compilers, Just In Time compilation, managed runtime systems and GPUs. 
+My background is Just In Time compilation, managed runtime systems, GPUs and parallel computing. 
 
 ## Past Collaborations 
 
-I have worked a few EU projects, such as [AERO European Project](https://aero-project.eu/) for porting TornadoVM to ARM and RISC-V based computing systems with hardware accelerators. 
+I have worked in a few EU projects, such as [AERO European Project](https://aero-project.eu/) for porting TornadoVM to ARM and RISC-V based computing systems with hardware accelerators. 
 Besides, I collaborated with the [GAIA project](https://sci.esa.int/web/gaia) (under the European Space Agency [ESA](https://www.esa.int/)) to help accelerating Java 
 HPC workloads on GPUs using the TornadoVM software stack.
 I have also worked and collaborated with Intel to bring oneAPI into the TornadoVM framework to perform optimisations for Intel compute architectures (xPUs). 
 
 ## Public Speaking and Standarization
 
-I do [public speaking](https://jjfumero.github.io/talks/) about my previous research at the University of Manchester and software engineering topics. 
+I tend to do [public speaking](https://jjfumero.github.io/talks/) about my previous research at the University of Manchester and software engineering topics. 
 I have presented at several academic and Industry conferences, including JVMLS, QCon, Devoxx, JavaZone, JAX, and Java User Groups, such as NYJavaSIG.
 
 I am also an [Intel oneAPI Innovator](https://www.intel.com/content/www/us/en/developer/community/innovators/oneapi-all-innovators.html), 
