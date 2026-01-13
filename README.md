@@ -41,13 +41,3 @@ implementing compilers and evaluating parallel programming techniques for multi-
 _______
 If you are also interested in any of these topics, get in touch! 
 
-
-### Stats
- 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jjfumero&count_private=true&theme=onedark&showicons=true)]()
-
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jjfumero&langs_count=5&theme=onedark)]()
-
----------------------------------------------------------------------
-
